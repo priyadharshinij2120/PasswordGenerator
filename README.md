@@ -1,8 +1,4 @@
-Here is **ready-to-use project content / documentation** you can submit with your **Simple Password Generator (Tkinter)** project.
-
----
-
- Project Title
+Project Title
 Simple Password Generator Using Python and Tkinter
 
 
@@ -11,7 +7,7 @@ Project Description
 
 The **Simple Password Generator** is a desktop-based application developed using **Python** and **Tkinter**. It allows users to generate strong and secure passwords by selecting different character combinations such as uppercase letters, lowercase letters, numbers, and symbols. The application provides a user-friendly graphical interface and ensures password security by using random character selection.
 
----
+
 
 Objectives of the Project
 
@@ -84,7 +80,7 @@ Future Enhancements
 * Create a web-based version
 * Add encryption for stored passwords
 
-- Conclusion
+Conclusion
 
 The **Simple Password Generator** project demonstrates the practical use of Python and Tkinter to build a functional GUI application. It helps users create secure passwords easily while improving understanding of event handling, GUI components, and Python modules. This project is suitable for beginners and internship-level submissions.
 
