@@ -1,4 +1,4 @@
-Project Title
+Project Title:
 Simple Password Generator Using Python and Tkinter
 
 
